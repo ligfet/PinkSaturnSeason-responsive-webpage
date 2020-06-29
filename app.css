@@ -1,0 +1,27 @@
+body {
+    background: pink;
+    font-family: "Nunito", sans-serif;
+}
+
+.navbar-brand {
+
+    color: #ea1cd9;
+    font-size: 1.5rem;
+    font-weight: 80;
+
+}
+
+#mainNavbar {
+    font-size: 1rem;
+    font-height: 80;
+    
+}
+
+#mainNavbar .nav-link:hover {
+    color: black;
+    background: rgb(247, 125, 247);
+}
+
+#mainNAvbar .navbar-brand {
+    color: black;
+}
